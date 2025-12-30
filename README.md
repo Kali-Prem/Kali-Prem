@@ -60,6 +60,7 @@ Hi! I’m **Prem Kumar**, a passionate **Java DSA learner and Full-Stack Web Dev
 ---
 
 ## 🏆 Badges & Learning
+![Badge](images/tryhackme_badge.png)
 <img src="https://tryhackme-badges.s3.amazonaws.com/kaliprem.png" alt="Tryhackme_Badge" />
 
 

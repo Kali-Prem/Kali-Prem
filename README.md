@@ -79,8 +79,10 @@ To secure a **software developer role** where I can apply **Java DSA**, **full-s
 
 ---
 ## 🔗 Connect With Me
-- 💻 GitHub: https://github.com/Kali-Prem
+- 💻 GitHub:   https://github.com/Kali-Prem
+- 🚚 Linkedin: https://www.linkedin.com/in/kali-prem
 - 💻 LeetCode: https://leetcode.com/u/Kali-Prem
+- 🔥 Tryhackme: https://tryhackme.com/p/KaliPrem
 
 ---
 

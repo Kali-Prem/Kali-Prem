@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 # Kali Prem 👨‍💻
+    <img src="https://tryhackme-badges.s3.amazonaws.com/KaliPrem.png" alt="TryHackMe Badge" />
+
 
 ## ☕ Java DSA | 🌐 Full-Stack Web Developer | 🔐 Cybersecurity Enthusiast
 

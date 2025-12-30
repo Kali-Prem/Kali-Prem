@@ -28,13 +28,15 @@ Hi! I’m **Prem Kumar**, a passionate **Java DSA learner and Full-Stack Web Dev
   - RESTful APIs  
   - Authentication & Authorization  
   - MVC Architecture  
-  - Secure Web Applications  
+  - Secure Web Applications
+-**Authentication & secure coding practices** 
 
 ---
 
-## 🔐 Cybersecurity & Kali Linux (Supporting Skill)
+## 🔐 Cybersecurity & Kali Linux (Supporting Strength)
 - Kali Linux & Linux systems  
-- Web Application Security  
+- Web Application Security
+- SOC Analyst  
 - Network Security fundamentals  
 - Tools: Nmap, Burp Suite, Metasploit, Wireshark  
 - Understanding vulnerabilities and secure coding practices  
@@ -57,6 +59,23 @@ Hi! I’m **Prem Kumar**, a passionate **Java DSA learner and Full-Stack Web Dev
 
 ---
 
+## 🏆 Badges & Learning
+
+![Java](https://img.shields.io/badge/Java-DSA-orange)
+![Full Stack](https://img.shields.io/badge/Full--Stack-Web%20Development-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-green)
+![Linux](https://img.shields.io/badge/Linux-Kali_Linux-black)
+
+---
+
+## 🎯 Career Objective
+To secure a **software developer role** where I can apply **Java DSA**, **full-stack development**, and **security-aware coding practices** to build real-world, impactful applications.
+
+---
+
+⭐ **Actively preparing for placements | Open to internships & entry-level roles**
+
+---
 ## 🔗 Connect With Me
 - 💻 GitHub: https://github.com/Kali-Prem
 - 💻 LeetCode: https://leetcode.com/u/Kali-Prem

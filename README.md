@@ -1,10 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prem Kumar 👨‍💻</h1> 
 
-# Kali Prem 👨‍💻
+<h3 align="center">☕ Java DSA | 🌐 Full-Stack Web Developer | 🔐 Cybersecurity Enthusiast </h3>
 
-## ☕ Java DSA | 🌐 Full-Stack Web Developer | 🔐 Cybersecurity Enthusiast
 
-Hi! I’m **Prem Kumar**, a passionate **Java DSA learner and Full-Stack Web Developer** with a strong foundation in **cybersecurity and Kali Linux**. I focus on building **efficient, scalable, and secure applications** while continuously improving my problem-solving skills.
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kali-Prem&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Kali-Prem?label=Followers&style=social" />
+</p>
+
+---
+
+<p align="center">
+  Hi! I’m **Prem Kumar**, a passionate **Java DSA learner and Full-Stack Web Developer** with a strong foundation in **cybersecurity and Kali Linux**. I focus on building **efficient, scalable, and secure applications** while continuously improving my problem-solving skills.
+</p>
 
 ---
 

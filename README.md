@@ -21,7 +21,7 @@
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=Java,Python,C++,Shell,HTML,CSS" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,bash" />
 </p>
 
 ### 🔹 Programming & Backend
@@ -58,6 +58,14 @@
 ---
 
 ## 🚀 Projects
+### 🔐 Tor IP Changer
+A Linux-based script that routes traffic through the Tor network to change the public IP address automatically.  
+Built for learning anonymity concepts, Tor routing, and basic security tooling.
+
+**Stack:** Bash • Tor • Linux (Kali)  
+🔗 https://github.com/Kali-Prem/Tor-ip-changer
+
+
 - ✅ Java Practice Programs  
 - ✅ DSA Problem Solving (Java)
 - 🚧 Full Stack Projects (In Progress)
@@ -82,7 +90,7 @@
 ---
 
 ## ✨ Quote I Believe In
-> **"Consistency beats talent when talent doesn't work consistently."**
+> **"Mindset is Everything."**
 
 ---
 

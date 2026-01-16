@@ -19,6 +19,11 @@
 
 ## 🛠️ Tech Stack & Tools
 
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=Java,Python,C++,Shell,HTML,CSS" />
+</p>
+
 ### 🔹 Programming & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -34,7 +39,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔹 Cyber Security
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=shield)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 
 ---
 
@@ -62,10 +69,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kali-Prem&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=radical" />
-</p>
+
 
 
 ---

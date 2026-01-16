@@ -1,97 +1,85 @@
-<h1 align="center">Hi 👋, I'm Prem Kumar 👨‍💻</h1> 
-
-<h3 align="center">☕ Java DSA | 🌐 Full-Stack Web Developer | 🔐 Cybersecurity Enthusiast </h3>
-
-
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kali-Prem&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Kali-Prem?label=Followers&style=social" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Java+Developer;Data+Structures+%26+Algorithms+in+Java;Cyber+Security+Enthusiast;Building+Projects+%7C+Learning+Every+Day" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Prem Kumar</h1>
+<h3 align="center">Java Developer | DSA in Java | Full Stack (Learning)</h3>
+
 ---
+
+## 👨‍💻 About Me
+- 🎓 B.Tech Student  
+- ☕ Strong interest in **Java & Backend Development**
+- 🧠 Practicing **Data Structures & Algorithms in Java**
+- 🌐 Learning **Full Stack Development**
+- 🔐 Cyber Security Enthusiast (Linux, Web Security basics)
+- 🚀 Consistent learner & project builder
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🔹 Programming & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🔹 Frontend
+![HTML](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔹 Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔹 Cyber Security
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=shield)
+
+---
+
+## 📚 Data Structures & Algorithms (Java)
+- Arrays & Strings  
+- Recursion & Backtracking  
+- Linked List, Stack, Queue  
+- Trees & Graphs (Learning)
+- Dynamic Programming (Learning)
+- Practicing on **LeetCode & HackerRank**
+
+📘 Repo: **java-dsa / dsa-in-java**
+
+---
+
+## 🚀 Projects
+- ✅ Java Practice Programs  
+- ✅ DSA Problem Solving (Java)
+- 🚧 Full Stack Projects (In Progress)
+- 🚧 Spring Boot Backend APIs (Learning)
+
+📌 *More projects coming soon...*
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  Hi! I’m **Prem Kumar**, a passionate **Java DSA learner and Full-Stack Web Developer** with a strong foundation in **cybersecurity and Kali Linux**. I focus on building **efficient, scalable, and secure applications** while continuously improving my problem-solving skills.
+  <img src="https://github-readme-stats.vercel.app/api?username=Kali-Prem&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=radical" />
 </p>
 
----
-
-## ⭐ Core Focus Areas
-
-### ☕ Java & Data Structures and Algorithms (DSA)
-- Core Java & Advanced Java concepts  
-- Object-Oriented Programming (OOP)  
-- Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs  
-- Algorithms: Searching, Sorting, Recursion, Dynamic Programming  
-- Competitive programming & problem solving  
-- Writing optimized and clean Java code  
 
 ---
 
-### 🌐 Full-Stack Web Development
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java (Spring basics) / Node.js (basics)  
-- **Databases:** MySQL, MongoDB  
-- **Web Concepts:**  
-  - RESTful APIs  
-  - Authentication & Authorization  
-  - MVC Architecture  
-  - Secure Web Applications
--**Authentication & secure coding practices** 
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/kali-prem  
+- 🧠 LeetCode: https://leetcode.com/u/Kali-Prem  
+- 🏆 TryHackMe: https://tryhackme.com/p/KaliPrem  
 
 ---
 
-## 🔐 Cybersecurity & Kali Linux (Supporting Strength)
-- Kali Linux & Linux systems  
-- Web Application Security
-- SOC Analyst  
-- Network Security fundamentals  
-- Tools: Nmap, Burp Suite, Metasploit, Wireshark  
-- Understanding vulnerabilities and secure coding practices  
+## ✨ Quote I Believe In
+> **"Consistency beats talent when talent doesn't work consistently."**
 
 ---
 
-## 📂 What You’ll Find Here
-- ☕ **Java DSA practice problems & solutions**
-- 🌐 **Full-stack web development projects**
-- 🔐 Cybersecurity labs and Kali Linux notes
-- 📘 Learning resources and documentation
-
----
-
-## 🚀 Career Goals
-- Master **Java DSA** for strong problem-solving and interviews  
-- Become a skilled **Full-Stack Web Developer**  
-- Build **secure, real-world web applications**  
-- Grow as a **software engineer with security expertise**
-
----
-
-## 🏆 Badges & Learning
-<img src="https://tryhackme-badges.s3.amazonaws.com/KaliPrem.png" alt="Tryhackme_Badge" />
-
-
-![Java](https://img.shields.io/badge/Java-DSA-orange)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Web%20Development-blue)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-green)
-![Linux](https://img.shields.io/badge/Linux-Kali_Linux-black)
-
----
-
-## 🎯 Career Objective
-To secure a **software developer role** where I can apply **Java DSA**, **full-stack development**, and **security-aware coding practices** to build real-world, impactful applications.
-
----
-
-⭐ **Actively preparing for placements | Open to internships & entry-level roles**
-
----
-## 🔗 Connect With Me
-- 💻 GitHub:   https://github.com/Kali-Prem
-- 🚚 Linkedin: https://www.linkedin.com/in/kali-prem
-- 💻 LeetCode: https://leetcode.com/u/Kali-Prem
-- 🔥 Tryhackme: https://tryhackme.com/p/KaliPrem
-
----
-
-⭐ **If you’re interested in Java DSA or Full-Stack Web Development, explore my repositories and follow my journey!**
+⭐ *If you like my work, consider starring my repositories!*

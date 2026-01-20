@@ -1,9 +1,14 @@
+
+
+<h1 align="center">Hi 👋, I'm Prem Kumar</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Java+Developer;Data+Structures+%26+Algorithms+in+Java;Cyber+Security+Enthusiast;Building+Projects+%7C+Learning+Every+Day" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Prem Kumar</h1>
-<h3 align="center">Java Developer | DSA in Java | Full Stack (Learning)</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kali-Prem&label=Profile%20Views&color=4f46e5&style=flat" />
+</p>
 
 ---
 

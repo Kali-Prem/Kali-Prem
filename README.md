@@ -89,7 +89,7 @@ Built for learning anonymity concepts, Tor routing, and basic security tooling.
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kali-prem  
-- 🧠 LeetCode: https://leetcode.com/u/Kali-Prem  
+- 🧠 LeetCode: https://leetcode.com/u/Prem_Kumar01  
 - 🏆 TryHackMe: https://tryhackme.com/p/KaliPrem  
 
 ---

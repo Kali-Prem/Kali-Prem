@@ -18,6 +18,7 @@
 - 🧠 Practicing **Data Structures & Algorithms in Java**
 - 🌐 Learning **Full Stack Development**
 - 🔐 Cyber Security Enthusiast (Linux, Web Security)
+- 🖥️ Troubleshooter.
 - 🚀 Consistent learner & project builder
 
 ---

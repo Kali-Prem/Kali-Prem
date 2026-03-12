@@ -17,7 +17,7 @@
 - ☕ Strong interest in **Java & Backend Development**
 - 🧠 Practicing **Data Structures & Algorithms in Java**
 - 🌐 Learning **Full Stack Development**
-- 🔐 Cyber Security Enthusiast (Linux, Web Security basics)
+- 🔐 Cyber Security Enthusiast (Linux, Web Security)
 - 🚀 Consistent learner & project builder
 
 ---

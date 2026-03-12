@@ -59,7 +59,7 @@
 - Dynamic Programming (Learning)
 - Practicing on **LeetCode & HackerRank**
 
-📘 Repo: **java-dsa / dsa-in-java**
+📘 Repo: **Java-DSA-Learning**
 
 ---
 

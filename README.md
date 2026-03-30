@@ -51,16 +51,6 @@
 
 ---
 
-## 📚 Data Structures & Algorithms (Java)
-- Arrays & Strings  
-- Recursion & Backtracking  
-- Linked List, Stack, Queue  
-- Trees & Graphs (Learning)
-- Dynamic Programming (Learning)
-- Practicing on **LeetCode & HackerRank**
-
-📘 Repo: **Java-DSA-Learning**
-
 ---
 
 ## 🚀 Projects
@@ -72,18 +62,10 @@ Built for learning anonymity concepts, Tor routing, and basic security tooling.
 🔗 https://github.com/Kali-Prem/Tor-ip-changer
 
 ===========================================
-- ✅ Java Practice Programs  
-- ✅ DSA Problem Solving (Java)
-- 🚧 Full Stack Projects (In Progress)
-- 🚧 Spring Boot Backend APIs (Learning)
 
 📌 *More projects coming soon...*
 
 ---
-
-## 📊 GitHub Stats
-
-
 
 
 ---

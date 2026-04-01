@@ -1,5 +1,3 @@
-![S![Snake animation](https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/output/github-contribution-grid-snake.svg)
-
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 
 <p align="center">

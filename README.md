@@ -1,4 +1,4 @@
-
+![Snake animation](https://github.com/Kali-Prem/<repo-name>/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 

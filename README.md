@@ -5,9 +5,35 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kali-Prem&label=VISITORS&color=00ff00&style=for-the-badge" />
+</p>
+
+<p align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=250&section=header&text=PREM%20KUMAR&fontColor=00ff00&fontSize=45&animation=fadeIn&fontAlignY=35&desc=>>>%20Initializing%20Kali%20System...&descAlignY=55&descSize=18"/>
 </p>
+
+
+<!-- ===========GitHub Stats========== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=tokyonight"/>
+      </td>
+      <td width="30"></td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Prem&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+
 
 
 
@@ -66,15 +92,6 @@ output: SUCCESS 🚀
 
 ---
 
-<!-- ===========GitHub Stats========== -->
-## 📊 GitHub Stats
-
-<p align="center" style="box-shadow: 0 6px 10px rgba(0, 255, 0, 0.2); border-radius: 10px; padding: 20px; background-color: #000000;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Prem&theme=tokyonight"/>
-</p>
-
----
 
 
 <!-- ========================Projects================ -->

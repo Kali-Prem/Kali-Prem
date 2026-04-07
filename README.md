@@ -118,7 +118,7 @@ output: SUCCESS 🚀
 <p align="center">
 💡 AI-powered platform to find the perfect teammates for your projects & hackathons based on skills, interests, and goals.
 </p>
-
+<p align="center">ProtoType Link:- https://kali-prem.github.io/TeamUp-Ai/ </p>
 <p align="center"><strong>Core Stack</strong></p>
 
 <p align="center">

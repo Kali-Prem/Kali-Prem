@@ -34,6 +34,39 @@
 ---
 
 
+<!-- ===========LeetCode, HackerRank========== -->
+
+
+
+<div align="center">
+
+<h2>📊 Coding Stats</h2>
+
+<div style="
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+">
+
+<!-- LeetCode -->
+<div style="
+  background-color: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 15px;
+  width: 300px;
+">
+  <img src="https://leetcard.jacoblin.cool/Prem_Kumar01?theme=dark&font=Karma&ext=heatmap" width="50%"/>
+</div>
+
+
+
+
+</div>
+
+</div>
+
 
 
 

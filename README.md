@@ -91,40 +91,6 @@ SECURITY : ENABLED 🔐
 
 ```
 
-<!-- ===========Developer Log========== -->
-## 🧠 Developer Log
-
-```bash
-┌──(log㉿kali)-[~/progress]
-└─$ cat focus.txt
-
-- Practicing DSA daily
-- Building scalable projects
-- Strengthening Java core
-- Exploring offensive security
-
-└─$ mission
-
-"Master development. Think like a hacker."
-```
-
-
-<!-- ==========Developer Mode========== -->
-## ⚙️ Developer Mode
-```powershell
-System.check();
-
-if (skills == improving) {
-    keepLearning();
-    buildProjects();
-    stayConsistent();
-}
-
-output: SUCCESS 🚀
-```
-
----
-
 
 
 <!-- ========================Projects================ -->

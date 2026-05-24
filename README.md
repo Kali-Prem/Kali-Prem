@@ -22,15 +22,14 @@
 </p>
 
 
-<!-- ================================= -->
-
-
+<!-- ================Portfolio================== -->
 <div align="center">
 
-## 🌐 Portfolio :- <a href="https://kali-prem.github.io/" target="_blank"> Visit My Portfolio
-</a>
+## 🌐 Portfolio :- <a href="https://kali-prem.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 </div>
+
+
 
 
 <!-- ===========GitHub Stats========== -->

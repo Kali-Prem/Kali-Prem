@@ -4,16 +4,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=>>>+Initializing+Kali+Profile...;>>>+Java+%7C+DSA+%7C+Web+Developer;>>>+Cybersecurity+Enthusiast;>>>+Keep+Building+%7C+Keep+Learning" />
 </p>
 
+
+
+<!-- ================Main=========== -->
+
+<!-- <div align="center"> -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=220&section=header&text=I'm%20Prem%20Kumar&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=⚡%20Sharpening%20DSA%20one%20commit%20at%20a%20time%20⚡&descSize=16&descAlignY=64&descColor=7ecfff&stroke=00d4ff&strokeWidth=2&animation=twinkling" width="100%" alt="Prem's LeetCode Practice"/>
+
+<!-- <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Solutions+%7C+Clean+Code+%7C+Optimal+Complexity;Arrays+%E2%80%A2+DP+%E2%80%A2+Math+%E2%80%A2+Bit+Manipulation;5%C3%97+Perfect+Runtime+%F0%9F%8F%86+%7C+Daily+Commits+%E2%9C%85;From+Brute+Force+to+Blazing+Fast+%E2%9A%A1" alt="Typing SVG" />
+</a> -->
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kali-Prem&label=VISITORS&color=00ff00&style=for-the-badge" />
 </p>
 
-<p align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=250&section=header&text=PREM%20KUMAR&fontColor=00ff00&fontSize=45&animation=fadeIn&fontAlignY=35&desc=>>>%20Initializing%20Kali%20System...&descAlignY=55&descSize=18"/>
-</p>
 
+<br/><br/>
 
+<!-- ================================= -->
 
 
 <div align="center">

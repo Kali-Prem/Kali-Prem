@@ -14,6 +14,16 @@
 </p>
 
 
+
+
+<div align="center">
+
+## 🌐 Portfolio :- <a href="https://kali-prem.github.io/" target="_blank"> Visit My Portfolio
+</a>
+
+</div>
+
+
 <!-- ===========GitHub Stats========== -->
 ## 📊 GitHub Stats
 
@@ -71,192 +81,86 @@
 
 
 <!-- ===========System Status========== -->
-## 🟢 System Console
 
-```powershell
-┌──(kali㉿prem)-[~/profile]
-└─$ ./initialize.sh
+## ⚡ About Me
 
-[✔] Loading Java modules...
-[✔] Injecting DSA logic...
-[✔] Deploying Web Systems...
-[✔] Activating Cybersecurity Layer...
+I am a passionate software engineer with a deep fascination for solving complex algorithmic problems and securing modern digital ecosystems. My journey spans backend architecture, full-stack web systems, machine learning, and ethical hacking. 
 
-root@kali:~# system_status
-
-STATUS   : ONLINE ⚡
-USER     : Prem Kumar (Kali)
-MODE     : DEVELOPER
-SECURITY : ENABLED 🔐
-
-```
-
-
-
-<!-- ========================Projects================ -->
-## <p style="color: #00FF00;">🚀 Projects </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=16&center=true&vCenter=true&width=800&lines=010101010101010101010101010101;SYSTEM+BREACH+SIMULATION+RUNNING...;ACCESSING+KNOWLEDGE+BASE..."/>
-</p>
-
-<p align="center">
-  <i>✨ Building futuristic solutions with code & creativity</i>
-</p>
+- 🎓 **Focus Areas**: Deepening my expertise in high-performance backend architectures and advanced penetration testing.
+- 🧠 **Problem Solving**: Active compiler of patterns and strategies in Data Structures & Algorithms (DSA).
+- 🔐 **Ethical Hacking**: Exploring security vulnerability landscapes, scripting automations in Bash/Python, and practicing on CTF platforms.
+- 💡 **Philosophy**: *"Simplicity is the soul of efficiency."*
 
 ---
 
-<!-- ====TeamUp-AI===== -->
+## 🛠️ Tech Stack & Toolkit
 
-<div align="center">
-
-### 🤖 TeamUp-AI  
-<img src="https://img.shields.io/badge/Hackathon-Project-00FFAA?style=for-the-badge&logo=hackaday&logoColor=black"/>
-
-</div>
-
-<p align="center">
-💡 AI-powered platform to find the perfect teammates for your projects & hackathons based on skills, interests, and goals.
-</p>
-<p align="center">ProtoType Link:- https://kali-prem.github.io/TeamUp-Ai/ </p>
-<p align="center"><strong>Core Stack</strong></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React%2019-000000?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-000000?style=for-the-badge&logo=tailwindcss"/>
+### 💻 Languages & Backend Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Cloud%20Firestore-000000?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Google%20GenAI-000000?style=for-the-badge&logo=google"/>
-<img src="https://img.shields.io/badge/Lucide%20Icons-000000?style=for-the-badge&logo=lucide"/>
+### 🌐 Web & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<p align="center"><strong>Dev Tools</strong></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman"/>
+### 🔐 Cybersecurity & Pentesting
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=ff4a00" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-008080?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite" />
 </p>
 
-<p align="center">
-✨ Smart Matching &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ Real-time Collaboration &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 Skill-Based Filtering
+### 🧰 Tools & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<p align="center">
-<a href="https://github.com/Kali-Prem/TeamUp-Ai">
-<img src="https://img.shields.io/badge/View%20Project-00FFAA?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
----
 
 
-<!--================DSA Practice==============-->
-<div align="center">
 
-### ⚙️ DSA Practice  
-<img src="https://img.shields.io/badge/Java-DSA-00FFAA?style=for-the-badge&logo=openjdk&logoColor=black"/>
-
-</div>
-
-<p align="center">
-📊 Collection of Data Structures & Algorithms problems solved with optimized Java solutions.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/📦%20Arrays-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧱%20Stacks-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📬%20Queues-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔗%20Linked%20Lists-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌳%20Trees-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🕸️%20Graphs-000000?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/🔁%20Recursion-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔐%20Hashing-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔎%20Searching-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⬆️%20Sorting-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯%20Greedy-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠%20Dynamic%20Programming-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚙️%20Bit%20Manipulation-000000?style=for-the-badge"/>
-</p>
-
-<p align="center">
-🔥 Interview Ready &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ Optimized Code &nbsp;&nbsp;|&nbsp;&nbsp; 📈 Daily Practice
-</p>
-
-<p align="center">
-<a href="https://github.com/Kali-Prem/Java-DSA-Learning">
-<img src="https://img.shields.io/badge/View%20Profile-00FFAA?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
 
 ---
 
 
 
-<!-- ===============Hacking Learning============== -->
 
-<div align="center">
 
-### 💻 Hacking Learning  
-<img src="https://img.shields.io/badge/Cybersecurity-Repo-00FFAA?style=for-the-badge&logo=kalilinux&logoColor=black"/>
+## 📂 Key Repositories & Learning Journeys
 
-</div>
+### 🧠 Data Structures & Algorithms (DSA)
+*   **[500-DSA-Pattern-Problems](https://github.com/Kali-Prem/500-DSA-Pattern-Problems)**: A curated and highly organized compilation of 500+ DSA pattern problems, designed to master problem-solving paradigms for top-tier coding interviews.
+*   **[Java-DSA-Learning](https://github.com/Kali-Prem/Java-DSA-Learning)**: Core Java implementations of fundamental data structures, custom algorithm optimizations, and step-by-step guides.
+*   **[leetcode-company-wise-interview-questions](https://github.com/Kali-Prem/leetcode-company-wise-interview-questions)**: Targeted study lists focusing on company-specific patterns and frequently asked interview questions.
 
-<p align="center">
-🧠 A structured repository to master ethical hacking tools, techniques, and concepts.
-</p>
+### 🔐 Cybersecurity & Pentesting
+*   **[Hacking-Learning](https://github.com/Kali-Prem/Hacking-Learning)**: Comprehensive reference sheets, ethical hacking labs, vulnerability assessment guides, and custom network security scripts.
 
-<p align="center"><strong>Core Topics</strong></p>
+### 🌐 Web & Full-Stack
+*   **[TeamUp-Ai](https://github.com/Kali-Prem/TeamUp-Ai)**: An intelligent, AI-powered project matching and team-building platform designed for developers and hackathons.
+*   **[FSWD-Learning](https://github.com/Kali-Prem/FSWD-Learning)**: Hands-on learning paths covering responsive frontend design systems and robust RESTful microservice architectures.
 
-<p align="center">
-<img src="https://img.shields.io/badge/🐧%20Linux-000000?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/🌐%20Networking-000000?style=for-the-badge&logo=cloudflare"/>
-<img src="https://img.shields.io/badge/🔐%20Security%20Basics-000000?style=for-the-badge&logo=protonvpn"/>
-<img src="https://img.shields.io/badge/🕵️%20Reconnaissance-000000?style=for-the-badge&logo=gnubash"/>
-</p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/🌍%20Web%20Security-000000?style=for-the-badge&logo=firefoxbrowser"/>
-<img src="https://img.shields.io/badge/🧰%20Tooling-000000?style=for-the-badge&logo=gnubash"/>
-<img src="https://img.shields.io/badge/🛡️%20Ethical%20Hacking-000000?style=for-the-badge&logo=kalilinux"/>
-</p>
-
-<p align="center"><strong>Common Tools</strong></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-</p>
-
-<p align="center">
-⚡ Organized Notes &nbsp;&nbsp;|&nbsp;&nbsp; 🔥 Tools Collection &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Hands-on Learning
-</p>
-
-<p align="center">
-<a href="https://github.com/Kali-Prem/Hacking-Learning">
-<img src="https://img.shields.io/badge/View%20Project-00FFAA?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=20&center=true&vCenter=true&width=600&lines=🚀+More+Projects+Coming+Soon...;⚡+Stay+Tuned+For+Updates"/>
-</p>
-
-
 
 
 

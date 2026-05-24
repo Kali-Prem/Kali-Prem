@@ -16,10 +16,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Solutions+%7C+Clean+Code+%7C+Optimal+Complexity;Arrays+%E2%80%A2+DP+%E2%80%A2+Math+%E2%80%A2+Bit+Manipulation;5%C3%97+Perfect+Runtime+%F0%9F%8F%86+%7C+Daily+Commits+%E2%9C%85;From+Brute+Force+to+Blazing+Fast+%E2%9A%A1" alt="Typing SVG" />
 </a> -->
 
+<!-- ==================Visitors Count=============== -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kali-Prem&label=VISITORS&color=00ff00&style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/👥%20VISITORS-2,713-1e90ff?style=for-the-badge&labelColor=0f172a&color=2563eb" height="55"/>
+
+</div>
+
 
 
 <!-- ================Portfolio================== -->

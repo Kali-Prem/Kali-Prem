@@ -18,11 +18,26 @@
 
 <!-- ==================Visitors Count=============== -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://img.shields.io/badge/👥%20VISITORS-2,713-1e90ff?style=for-the-badge&labelColor=0f172a&color=2563eb" height="55"/>
 
+</div> -->
+
+
+<div align="center">
+
+<img 
+  src="https://komarev.com/ghpvc/?username=Kali-Prem&label=👥%20VISITORS&color=2563eb&labelColor=0f172a&style=for-the-badge" 
+  height="55" 
+/>
+
 </div>
+
+
+
+```
+
 
 
 

@@ -245,9 +245,11 @@ I am a passionate software engineer with a deep fascination for solving complex 
 </p>
 
 ```bash
-> connect --prem_kumar
+┌─[root@Kali-Prem]─[~]
+└──╼ connect --prem_kumar
 
-status: available_for_collaboration ⚡
+[STATUS] available_for_collaboration ⚡
+[MODE] secure-channel active
 ```
 
 </div>

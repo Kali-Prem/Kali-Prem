@@ -1,16 +1,13 @@
-
 <!-- ===========Profile Introduction========== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=>>>+Initializing+Kali+Profile...;>>>+Java+%7C+DSA+%7C+Web+Developer;>>>+Cybersecurity+Enthusiast;>>>+Keep+Building+%7C+Keep+Learning" />
 </p>
 
-
-
 <!-- ================Main=========== -->
 
 <!-- <div align="center"> -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=220&section=header&text=I'm%20Prem%20Kumar&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=⚡%20Sharpening%20DSA%20one%20commit%20at%20a%20time%20⚡&descSize=16&descAlignY=64&descColor=7ecfff&stroke=00d4ff&strokeWidth=2&animation=twinkling" width="100%" alt="Prem's LeetCode Practice"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=240&section=header&text=Prem%20Kumar&fontSize=54&fontColor=00f5ff&fontAlignY=42&desc=⚡%20DSA%20%7C%20Java%20%7C%20Cybersecurity%20⚡&descSize=16&descAlignY=68&descColor=7ef9ff&stroke=00f5ff&strokeWidth=2&animation=twinkling" width="100%" alt="Prem Kumar profile banner"/>
 
 <!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Solutions+%7C+Clean+Code+%7C+Optimal+Complexity;Arrays+%E2%80%A2+DP+%E2%80%A2+Math+%E2%80%A2+Bit+Manipulation;5%C3%97+Perfect+Runtime+%F0%9F%8F%86+%7C+Daily+Commits+%E2%9C%85;From+Brute+Force+to+Blazing+Fast+%E2%9A%A1" alt="Typing SVG" />
@@ -24,35 +21,36 @@
 
 </div> -->
 
-
 <div align="center">
 
 <img 
   src="https://komarev.com/ghpvc/?username=Kali-Prem&label=👥%20VISITORS&color=2563eb&labelColor=0f172a&style=for-the-badge" 
-  height="55" 
+  height="25" 
 />
 
 </div>
 
-
-
-
-
-
-
-
 <!-- ================Portfolio================== -->
 <div align="center">
+  <h3>✨ Quick Links</h3>
+  <a href="https://kali-prem.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
-## 🌐 Portfolio :- <a href="https://kali-prem.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://kali-prem.github.io/leetcode-company-wise-interview-questions/" target="_blank"><img src="https://img.shields.io/badge/DSA%20Doctor-View%20Repo-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="DSA Doctor" /></a>
+
+<a href="https://www.linkedin.com/in/kali-prem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Prem_Kumar01" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
 </div>
 
-
-
-
 <!-- ===========GitHub Stats========== -->
-## 📊 GitHub Stats
+
+## 📊 GitHub Insights
+
+<div align="center" style="margin: 12px 0 18px 0; padding: 12px 16px; border: 1px solid #00f5ff; border-radius: 14px; box-shadow: 0 0 12px #00f5ff, 0 0 20px #008cff; background: rgba(0,245,255,0.06);">
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kali-Prem&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p> -->
 
 <p align="center">
   <table>
@@ -70,12 +68,11 @@
 
 ---
 
+</div>
 
 <!-- ===========LeetCode, HackerRank========== -->
 
-
-
-<div align="center">
+<div align="center" style="margin: 18px 0; padding: 14px; border: 1px solid #ff00cc; border-radius: 16px; box-shadow: 0 0 12px #ff00cc, 0 0 22px #8a00ff; background: rgba(255,0,204,0.06);">
 
 <h2>📊 Coding Stats</h2>
 
@@ -97,32 +94,43 @@
   <img src="https://leetcard.jacoblin.cool/Prem_Kumar01?theme=dark&font=Karma&ext=heatmap" width="50%"/>
 </div>
 
-
-
-
 </div>
 
 </div>
-
-
-
 
 <!-- ===========System Status========== -->
 
+## 🚀 Current Focus
+
+<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #00ff88; border-radius: 14px; box-shadow: 0 0 10px #00ff88, 0 0 18px #00b86b; background: rgba(0,255,136,0.06);">
+
+- Building practical DSA resources and problem-solving repositories that are easy to follow and reuse.
+- Strengthening backend and full-stack development with Java, Spring Boot, and modern web tools.
+- Exploring cybersecurity labs, automation scripts, and secure coding practices.
+
+</div>
+
 ## ⚡ About Me
 
-I am a passionate software engineer with a deep fascination for solving complex algorithmic problems and securing modern digital ecosystems. My journey spans backend architecture, full-stack web systems, machine learning, and ethical hacking. 
+<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #ffb400; border-radius: 14px; box-shadow: 0 0 10px #ffb400, 0 0 18px #ff7a00; background: rgba(255,180,0,0.06);">
+
+I am a passionate software engineer with a deep fascination for solving complex algorithmic problems and securing modern digital ecosystems. My journey spans backend architecture, full-stack web systems, machine learning, and ethical hacking.
 
 - 🎓 **Focus Areas**: Deepening my expertise in high-performance backend architectures and advanced penetration testing.
 - 🧠 **Problem Solving**: Active compiler of patterns and strategies in Data Structures & Algorithms (DSA).
 - 🔐 **Ethical Hacking**: Exploring security vulnerability landscapes, scripting automations in Bash/Python, and practicing on CTF platforms.
-- 💡 **Philosophy**: *"Simplicity is the soul of efficiency."*
+- 💡 **Philosophy**: _"Simplicity is the soul of efficiency."_
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Toolkit
 
+<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #7c4dff; border-radius: 14px; box-shadow: 0 0 10px #7c4dff, 0 0 18px #4a00e0; background: rgba(124,77,255,0.06);">
+
 ### 💻 Languages & Backend Core
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -133,6 +141,7 @@ I am a passionate software engineer with a deep fascination for solving complex 
 </p>
 
 ### 🌐 Web & Frameworks
+
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -143,6 +152,7 @@ I am a passionate software engineer with a deep fascination for solving complex 
 </p>
 
 ### 🔐 Cybersecurity & Pentesting
+
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=ff4a00" alt="Metasploit" />
@@ -152,6 +162,7 @@ I am a passionate software engineer with a deep fascination for solving complex 
 </p>
 
 ### 🧰 Tools & Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -161,39 +172,38 @@ I am a passionate software engineer with a deep fascination for solving complex 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-
-
-
+</div>
 
 ---
-
-
-
-
 
 ## 📂 Key Repositories & Learning Journeys
 
+<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #00e5ff; border-radius: 14px; box-shadow: 0 0 10px #00e5ff, 0 0 18px #0099ff; background: rgba(0,229,255,0.06);">
+
 ### 🧠 Data Structures & Algorithms (DSA)
-*   **[500-DSA-Pattern-Problems](https://github.com/Kali-Prem/500-DSA-Pattern-Problems)**: A curated and highly organized compilation of 500+ DSA pattern problems, designed to master problem-solving paradigms for top-tier coding interviews.
-*   **[Java-DSA-Learning](https://github.com/Kali-Prem/Java-DSA-Learning)**: Core Java implementations of fundamental data structures, custom algorithm optimizations, and step-by-step guides.
-*   **[leetcode-company-wise-interview-questions](https://github.com/Kali-Prem/leetcode-company-wise-interview-questions)**: Targeted study lists focusing on company-specific patterns and frequently asked interview questions.
+
+- **[500-DSA-Pattern-Problems](https://github.com/Kali-Prem/500-DSA-Pattern-Problems)**: A curated and highly organized compilation of 500+ DSA pattern problems, designed to master problem-solving paradigms for top-tier coding interviews.
+- **[Java-DSA-Learning](https://github.com/Kali-Prem/Java-DSA-Learning)**: Core Java implementations of fundamental data structures, custom algorithm optimizations, and step-by-step guides.
+- **[leetcode-company-wise-interview-questions](https://github.com/Kali-Prem/leetcode-company-wise-interview-questions)**: Targeted study lists focusing on company-specific patterns and frequently asked interview questions.
 
 ### 🔐 Cybersecurity & Pentesting
-*   **[Hacking-Learning](https://github.com/Kali-Prem/Hacking-Learning)**: Comprehensive reference sheets, ethical hacking labs, vulnerability assessment guides, and custom network security scripts.
+
+- **[Hacking-Learning](https://github.com/Kali-Prem/Hacking-Learning)**: Comprehensive reference sheets, ethical hacking labs, vulnerability assessment guides, and custom network security scripts.
 
 ### 🌐 Web & Full-Stack
-*   **[TeamUp-Ai](https://github.com/Kali-Prem/TeamUp-Ai)**: An intelligent, AI-powered project matching and team-building platform designed for developers and hackathons.
-*   **[FSWD-Learning](https://github.com/Kali-Prem/FSWD-Learning)**: Hands-on learning paths covering responsive frontend design systems and robust RESTful microservice architectures.
 
+- **[TeamUp-Ai](https://github.com/Kali-Prem/TeamUp-Ai)**: An intelligent, AI-powered project matching and team-building platform designed for developers and hackathons.
+- **[FSWD-Learning](https://github.com/Kali-Prem/FSWD-Learning)**: Hands-on learning paths covering responsive frontend design systems and robust RESTful microservice architectures.
 
+</div>
 
 ---
 
-
-
-
 <!-- ===========Connect With Me========== -->
+
 ## 🌐 Connect With Me
+
+<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #ff4d6d; border-radius: 14px; box-shadow: 0 0 10px #ff4d6d, 0 0 18px #ff006e; background: rgba(255,77,109,0.06);">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kali-prem">
@@ -216,7 +226,13 @@ I am a passionate software engineer with a deep fascination for solving complex 
 status: available_for_collaboration ⚡
 ```
 
+</div>
 
+<div align="center" style="margin-top: 24px; padding: 14px; border: 2px solid #00f5ff; border-radius: 18px; box-shadow: 0 0 20px #00f5ff, 0 0 35px #008cff; background: linear-gradient(135deg, rgba(0,245,255,0.12), rgba(0,140,255,0.08)); position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; background-image: repeating-linear-gradient(180deg, rgba(0,255,255,0.06) 0px, rgba(0,255,255,0.06) 1px, transparent 1px, transparent 4px); pointer-events: none;"></div>
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="520" alt="Cyberpunk hacker coding" />
+</div>
 
-
-
+<p align="center" style="margin-top: 12px; color: #7ef9ff; font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold; letter-spacing: 1px;">
+  <span style="color: #00f5ff;">root@Kali-Prem:~$</span> <span style="animation: blink 1s step-end infinite;">Kali-Prem</span>
+</p>

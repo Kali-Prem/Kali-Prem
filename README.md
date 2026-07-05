@@ -44,7 +44,7 @@
 
 <!-- ===========GitHub Stats========== -->
 
-## 📊 GitHub Insights
+## 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-cyan.svg" alt="GitHub Insights neon panel" width="900" />
@@ -82,7 +82,7 @@
 
 <div align="center" style="margin: 18px 0;">
 
-<h2>📊 Coding Stats</h2>
+<!-- <h2>📊 Coding Stats</h2> -->
 
 <div style="
   display: flex;
@@ -97,7 +97,7 @@
   border: 1px solid #30363d;
   border-radius: 10px;
   padding: 15px;
-  width: 300px;
+  width: 400px;
 ">
   <img src="https://leetcard.jacoblin.cool/Prem_Kumar01?theme=dark&font=Karma&ext=heatmap" width="50%"/>
 </div>
@@ -108,7 +108,7 @@
 
 <!-- ===========System Status========== -->
 
-## 🚀 Current Focus
+## 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-green.svg" alt="Current Focus neon panel" width="900" />
@@ -121,6 +121,9 @@
 - Exploring cybersecurity labs, automation scripts, and secure coding practices.
 
 </div>
+
+##
+
 
 ## ⚡ About Me
 
@@ -136,8 +139,9 @@ I am a passionate software engineer with a deep fascination for solving complex 
 </div>
 
 ---
+##
 
-## 🛠️ Tech Stack & Toolkit
+<!-- ## Tech Stack & Toolkit -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-purple.svg" alt="Tech Stack neon panel" width="900" />
@@ -192,7 +196,9 @@ I am a passionate software engineer with a deep fascination for solving complex 
 
 ---
 
-## 📂 Key Repositories & Learning Journeys
+<!-- ## 📂 Key Repositories & Learning Journeys -->
+
+##
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-cyan.svg" alt="Repositories neon panel" width="900" />
@@ -220,8 +226,8 @@ I am a passionate software engineer with a deep fascination for solving complex 
 ---
 
 <!-- ===========Connect With Me========== -->
-
-## 🌐 Connect With Me
+##
+<!-- ## 🌐 Connect With Me -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-red.svg" alt="Connect neon panel" width="900" />

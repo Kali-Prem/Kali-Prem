@@ -46,7 +46,11 @@
 
 ## 📊 GitHub Insights
 
-<div align="center" style="margin: 12px 0 18px 0; padding: 12px 16px; border: 1px solid #00f5ff; border-radius: 14px; box-shadow: 0 0 12px #00f5ff, 0 0 20px #008cff; background: rgba(0,245,255,0.06);">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-cyan.svg" alt="GitHub Insights neon panel" width="900" />
+</p>
+
+<div align="center" style="margin: 12px 0 18px 0;">
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kali-Prem&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
@@ -72,7 +76,11 @@
 
 <!-- ===========LeetCode, HackerRank========== -->
 
-<div align="center" style="margin: 18px 0; padding: 14px; border: 1px solid #ff00cc; border-radius: 16px; box-shadow: 0 0 12px #ff00cc, 0 0 22px #8a00ff; background: rgba(255,0,204,0.06);">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-pink.svg" alt="Coding Stats neon panel" width="900" />
+</p>
+
+<div align="center" style="margin: 18px 0;">
 
 <h2>📊 Coding Stats</h2>
 
@@ -102,7 +110,11 @@
 
 ## 🚀 Current Focus
 
-<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #00ff88; border-radius: 14px; box-shadow: 0 0 10px #00ff88, 0 0 18px #00b86b; background: rgba(0,255,136,0.06);">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-green.svg" alt="Current Focus neon panel" width="900" />
+</p>
+
+<div style="margin: 10px 0 16px 0;">
 
 - Building practical DSA resources and problem-solving repositories that are easy to follow and reuse.
 - Strengthening backend and full-stack development with Java, Spring Boot, and modern web tools.
@@ -112,7 +124,7 @@
 
 ## ⚡ About Me
 
-<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #ffb400; border-radius: 14px; box-shadow: 0 0 10px #ffb400, 0 0 18px #ff7a00; background: rgba(255,180,0,0.06);">
+<div style="margin: 10px 0 16px 0;">
 
 I am a passionate software engineer with a deep fascination for solving complex algorithmic problems and securing modern digital ecosystems. My journey spans backend architecture, full-stack web systems, machine learning, and ethical hacking.
 
@@ -127,7 +139,11 @@ I am a passionate software engineer with a deep fascination for solving complex 
 
 ## 🛠️ Tech Stack & Toolkit
 
-<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #7c4dff; border-radius: 14px; box-shadow: 0 0 10px #7c4dff, 0 0 18px #4a00e0; background: rgba(124,77,255,0.06);">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-purple.svg" alt="Tech Stack neon panel" width="900" />
+</p>
+
+<div style="margin: 10px 0 16px 0;">
 
 ### 💻 Languages & Backend Core
 
@@ -178,7 +194,11 @@ I am a passionate software engineer with a deep fascination for solving complex 
 
 ## 📂 Key Repositories & Learning Journeys
 
-<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #00e5ff; border-radius: 14px; box-shadow: 0 0 10px #00e5ff, 0 0 18px #0099ff; background: rgba(0,229,255,0.06);">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-cyan.svg" alt="Repositories neon panel" width="900" />
+</p>
+
+<div style="margin: 10px 0 16px 0;">
 
 ### 🧠 Data Structures & Algorithms (DSA)
 
@@ -203,7 +223,11 @@ I am a passionate software engineer with a deep fascination for solving complex 
 
 ## 🌐 Connect With Me
 
-<div style="margin: 10px 0 16px 0; padding: 12px 14px; border: 1px solid #ff4d6d; border-radius: 14px; box-shadow: 0 0 10px #ff4d6d, 0 0 18px #ff006e; background: rgba(255,77,109,0.06);">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-red.svg" alt="Connect neon panel" width="900" />
+</p>
+
+<div style="margin: 10px 0 16px 0;">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kali-prem">

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 900 140" role="img" aria-label="Coding Stats">
+  <defs>
+    <linearGradient id="bg-pink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140b1f"/>
+      <stop offset="100%" stop-color="#2b1038"/>
+    </linearGradient>
+    <filter id="glow-pink" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="884" height="124" rx="22" fill="url(#bg-pink)" stroke="#ff00cc" stroke-width="2.4" filter="url(#glow-pink)"/>
+  <rect x="28" y="28" width="844" height="84" rx="16" fill="#140b1f" opacity="0.9"/>
+  <circle cx="58" cy="70" r="7" fill="#ff00cc"/>
+  <circle cx="82" cy="70" r="7" fill="#ff4dd2"/>
+  <circle cx="106" cy="70" r="7" fill="#ff7be2"/>
+  <text x="50%" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#ff00cc" font-weight="700">Coding Stats</text>
+  <text x="50%" y="96" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#ff9de7">DSA progress • problem solving • algorithmic grind</text>
+</svg>

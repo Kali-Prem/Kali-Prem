@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+  <title id="title">Prem Kumar premium GitHub profile banner dark theme</title>
+  <desc id="desc">Animated glassmorphism developer profile hero with ASCII portrait, terminal details, skills, and social links.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1180" y2="610">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset=".5" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#030712"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="18%" cy="18%" r="55%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".26"/>
+      <stop offset=".45" stop-color="#2563EB" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="78%" cy="18%" r="60%">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity=".25"/>
+      <stop offset=".48" stop-color="#7C3AED" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowEmerald" cx="70%" cy="88%" r="58%">
+      <stop offset="0" stop-color="#10B981" stop-opacity=".18"/>
+      <stop offset=".48" stop-color="#22D3EE" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset=".5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#10B981"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-180 0;180 0;-180 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="asciiGrad" x1="40" y1="0" x2="410" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset=".45" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#10B981"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-160 0;160 0;-160 0" dur="5.6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".02"/>
+      <stop offset=".35" stop-color="#22D3EE" stop-opacity=".34"/>
+      <stop offset=".68" stop-color="#7C3AED" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".02"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1180 0;1180 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="glassReflect" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset=".22" stop-color="#FFFFFF" stop-opacity=".06"/>
+      <stop offset=".5" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#000000" flood-opacity=".45"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#22D3EE" flood-opacity=".08"/>
+    </filter>
+    <filter id="textGlow" x="-30%" y="-40%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#22D3EE" flood-opacity=".65"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#7C3AED" flood-opacity=".35"/>
+    </filter>
+    <filter id="pillGlow" x="-40%" y="-70%" width="180%" height="240%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#22D3EE" flood-opacity=".35"/>
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity=".22"/>
+    </filter>
+    <filter id="noise" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".82" numOctaves="3" seed="9"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .035"/>
+      </feComponentTransfer>
+    </filter>
+    <clipPath id="frameClip"><rect x="16" y="16" width="1148" height="578" rx="32"/></clipPath>
+    <clipPath id="asciiClip"><rect x="58" y="88" width="356" height="424" rx="20"/></clipPath>
+    <mask id="asciiMask">
+      <rect width="1180" height="610" fill="black"/>
+      <rect x="70" y="106" width="330" height="0" fill="white">
+        <animate attributeName="height" values="0;34;68;102;136;170;204;238;272;306;340" keyTimes="0;.08;.16;.24;.32;.4;.5;.6;.72;.84;1" dur="4.8s" begin=".5s" fill="freeze"/>
+      </rect>
+    </mask>
+    <clipPath id="role1"><rect x="0" y="0" width="0" height="34"><animate attributeName="width" values="0;260;260;0;0" keyTimes="0;.24;.72;.88;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="role2"><rect x="0" y="0" width="0" height="34"><animate attributeName="width" values="0;0;250;250;0;0" keyTimes="0;.18;.42;.70;.86;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="role3"><rect x="0" y="0" width="0" height="34"><animate attributeName="width" values="0;0;0;300;300;0" keyTimes="0;.36;.42;.62;.84;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="role4"><rect x="0" y="0" width="0" height="34"><animate attributeName="width" values="0;0;0;0;190;190" keyTimes="0;.56;.62;.70;.92;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect width="1180" height="610" fill="url(#bg)"/>
+    <rect width="1180" height="610" fill="url(#glowBlue)">
+      <animate attributeName="opacity" values=".8;.45;.8" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1180" height="610" fill="url(#glowViolet)">
+      <animate attributeName="opacity" values=".55;.9;.55" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1180" height="610" fill="url(#glowEmerald)">
+      <animate attributeName="opacity" values=".55;.25;.55" dur="10s" repeatCount="indefinite"/>
+    </rect>
+    <g opacity=".48">
+      <circle cx="180" cy="470" r="2" fill="#22D3EE"><animateMotion path="M0,0 C28,-32 50,22 82,-18" dur="10s" repeatCount="indefinite"/></circle>
+      <circle cx="960" cy="120" r="1.8" fill="#A78BFA"><animateMotion path="M0,0 C-38,28 -70,-18 -108,20" dur="12s" repeatCount="indefinite"/></circle>
+      <circle cx="690" cy="520" r="1.4" fill="#10B981"><animateMotion path="M0,0 C32,-16 60,20 94,-12" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="1060" cy="430" r="1.5" fill="#22D3EE"><animateMotion path="M0,0 C-22,-26 -58,18 -84,-18" dur="13s" repeatCount="indefinite"/></circle>
+      <circle cx="490" cy="92" r="1.3" fill="#7C3AED"><animateMotion path="M0,0 C30,22 48,-14 78,16" dur="8s" repeatCount="indefinite"/></circle>
+    </g>
+    <rect width="1180" height="610" filter="url(#noise)" opacity=".85"/>
+    <rect x="0" y="-40" width="1180" height="80" fill="#22D3EE" opacity=".035">
+      <animate attributeName="y" values="-80;630" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="16" y="16" width="1148" height="578" rx="32" fill="none" stroke="url(#borderGrad)" stroke-width="1.3"/>
+  <rect x="26" y="26" width="1128" height="558" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="42" y="58" width="410" height="494" rx="26" fill="#0F172A" fill-opacity=".68" stroke="rgba(255,255,255,.08)"/>
+    <rect x="728" y="-30" width="420" height="160" rx="80" fill="url(#glassReflect)" opacity=".22" transform="rotate(8 938 50)"/>
+    <rect x="42" y="58" width="410" height="494" rx="26" fill="url(#glassReflect)" opacity=".36"/>
+  </g>
+  <g clip-path="url(#asciiClip)">
+    <rect x="58" y="88" width="356" height="424" rx="20" fill="#020617" fill-opacity=".48" stroke="#FFFFFF" stroke-opacity=".06"/>
+    <g opacity=".34">
+      <path d="M58 128H414M58 168H414M58 208H414M58 248H414M58 288H414M58 328H414M58 368H414M58 408H414M58 448H414" stroke="#22D3EE" stroke-opacity=".11"/>
+      <rect x="58" y="72" width="356" height="34" fill="#22D3EE" opacity=".08">
+        <animate attributeName="y" values="72;512;72" dur="5.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g mask="url(#asciiMask)" filter="url(#textGlow)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5.8s" repeatCount="indefinite"/>
+      <text x="77" y="132" fill="url(#asciiGrad)" font-family="'SFMono-Regular',Consolas,monospace" font-size="18" font-weight="700" letter-spacing="1.1">
+        <tspan x="77" dy="0">      .-''''''-.</tspan>
+        <tspan x="77" dy="30">   .-'  .--.   '-.</tspan>
+        <tspan x="77" dy="30"> .'   .'    '.   '.</tspan>
+        <tspan x="77" dy="30">/    /  o  o  \    \</tspan>
+        <tspan x="77" dy="30">|   |     __    |   |</tspan>
+        <tspan x="77" dy="30">|   |  .-'__'-. |   |</tspan>
+        <tspan x="77" dy="30">\    \  '----' /    /</tspan>
+        <tspan x="77" dy="30"> '.   '.      .'   .'</tspan>
+        <tspan x="77" dy="30">   '-.  '----'  .-'</tspan>
+        <tspan x="77" dy="30">      '--.__.--'</tspan>
+        <tspan x="77" dy="30">  &lt; PREM / KUMAR &gt;</tspan>
+      </text>
+      <rect x="77" y="454" width="10" height="24" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="486" y="58" width="652" height="494" rx="26" fill="#0F172A" fill-opacity=".72" stroke="rgba(255,255,255,.08)"/>
+    <rect x="486" y="58" width="652" height="494" rx="26" fill="url(#glassReflect)" opacity=".28"/>
+    <rect x="512" y="88" width="600" height="38" rx="16" fill="#020617" fill-opacity=".45" stroke="#FFFFFF" stroke-opacity=".06"/>
+    <circle cx="538" cy="107" r="5" fill="#F87171"/>
+    <circle cx="558" cy="107" r="5" fill="#FBBF24"/>
+    <circle cx="578" cy="107" r="5" fill="#34D399"/>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="526" y="170" fill="#F8FAFC" font-size="34" font-weight="800">Hi <tspan fill="url(#accent)">I'm Prem Kumar</tspan></text>
+    <text x="526" y="214" fill="#94A3B8" font-size="20">root@kali-prem:~$ profile --role</text>
+    <g transform="translate(526 235)" font-size="28" font-weight="750" fill="url(#accent)" filter="url(#textGlow)">
+      <text clip-path="url(#role1)">Java Developer</text>
+      <text clip-path="url(#role2)">Full Stack Developer</text>
+      <text clip-path="url(#role3)">Open Source Contributor</text>
+      <text clip-path="url(#role4)">Security Enthusiast</text>
+      <rect x="318" y="-27" width="3" height="32" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0;1" dur=".85s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="0;176;176;0;0;248;248;0;0;292;292;0;0;238;238" dur="12s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g font-size="15" fill="#F8FAFC">
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="1.2s" fill="freeze"/><text x="526" y="303"><tspan fill="#22D3EE">location</tspan><tspan fill="#64748B">:</tspan> India</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="1.55s" fill="freeze"/><text x="526" y="331"><tspan fill="#22D3EE">education</tspan><tspan fill="#64748B">:</tspan> Software Engineering + DSA</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="1.9s" fill="freeze"/><text x="526" y="359"><tspan fill="#22D3EE">current_focus</tspan><tspan fill="#64748B">:</tspan> Java, Spring Boot, Full-Stack, Cybersecurity</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="2.25s" fill="freeze"/><text x="526" y="387"><tspan fill="#22D3EE">portfolio</tspan><tspan fill="#64748B">:</tspan> kali-prem.github.io  |  dsadoctor.com</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="2.6s" fill="freeze"/><text x="526" y="415"><tspan fill="#22D3EE">email</tspan><tspan fill="#64748B">:</tspan> available via GitHub profile</text></g>
+    </g>
+
+    <text x="526" y="459" fill="#94A3B8" font-size="13" font-weight="700" letter-spacing="1.4">SKILLS</text>
+    <g font-size="13" font-weight="700" text-anchor="middle">
+      <g transform="translate(526 477)"><rect width="58" height="28" rx="14" fill="#020617" stroke="#22D3EE" stroke-opacity=".28" filter="url(#pillGlow)"/><text x="29" y="18" fill="#F8FAFC">Java</text><animateTransform attributeName="transform" type="translate" values="526 477;526 474;526 477" dur="4s" repeatCount="indefinite"/></g>
+      <g transform="translate(594 477)"><rect width="70" height="28" rx="14" fill="#020617" stroke="#22D3EE" stroke-opacity=".28" filter="url(#pillGlow)"/><text x="35" y="18" fill="#F8FAFC">Python</text><animateTransform attributeName="transform" type="translate" values="594 477;594 474;594 477" dur="4.3s" repeatCount="indefinite"/></g>
+      <g transform="translate(674 477)"><rect width="64" height="28" rx="14" fill="#020617" stroke="#22D3EE" stroke-opacity=".28" filter="url(#pillGlow)"/><text x="32" y="18" fill="#F8FAFC">React</text><animateTransform attributeName="transform" type="scale" begin="mouseover" from="1 1" to="1.08 1.08" dur=".18s" fill="freeze"/><animateTransform attributeName="transform" type="scale" begin="mouseout" from="1.08 1.08" to="1 1" dur=".18s" fill="freeze"/></g>
+      <g transform="translate(748 477)"><rect width="74" height="28" rx="14" fill="#020617" stroke="#22D3EE" stroke-opacity=".28" filter="url(#pillGlow)"/><text x="37" y="18" fill="#F8FAFC">Node.js</text></g>
+      <g transform="translate(832 477)"><rect width="94" height="28" rx="14" fill="#020617" stroke="#22D3EE" stroke-opacity=".28" filter="url(#pillGlow)"/><text x="47" y="18" fill="#F8FAFC">TypeScript</text></g>
+      <g transform="translate(936 477)"><rect width="72" height="28" rx="14" fill="#020617" stroke="#22D3EE" stroke-opacity=".28" filter="url(#pillGlow)"/><text x="36" y="18" fill="#F8FAFC">Docker</text></g>
+      <g transform="translate(1018 477)"><rect width="74" height="28" rx="14" fill="#020617" stroke="#22D3EE" stroke-opacity=".28" filter="url(#pillGlow)"/><text x="37" y="18" fill="#F8FAFC">Postgres</text></g>
+      <g transform="translate(526 514)"><rect width="86" height="28" rx="14" fill="#020617" stroke="#7C3AED" stroke-opacity=".3" filter="url(#pillGlow)"/><text x="43" y="18" fill="#F8FAFC">Spring</text></g>
+      <g transform="translate(622 514)"><rect width="92" height="28" rx="14" fill="#020617" stroke="#7C3AED" stroke-opacity=".3" filter="url(#pillGlow)"/><text x="46" y="18" fill="#F8FAFC">Tailwind</text></g>
+      <g transform="translate(724 514)"><rect width="58" height="28" rx="14" fill="#020617" stroke="#7C3AED" stroke-opacity=".3" filter="url(#pillGlow)"/><text x="29" y="18" fill="#F8FAFC">Git</text></g>
+      <g transform="translate(792 514)"><rect width="74" height="28" rx="14" fill="#020617" stroke="#7C3AED" stroke-opacity=".3" filter="url(#pillGlow)"/><text x="37" y="18" fill="#F8FAFC">Linux</text></g>
+    </g>
+
+    <g transform="translate(1012 518)" fill="none" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".95">
+      <g transform="translate(0 0)"><circle cx="13" cy="13" r="12"/><path d="M9 18c-3 1-3-1-4-2m8 6v-4c0-1 .3-2 1-2-4-.4-8-2-8-8 0-2 .6-3 1.5-4C7 3 7 2 8 0c0 0 1.5 0 4 2a14 14 0 0 1 7 0c2.5-2 4-2 4-2 1 2 1 3 .5 4A6 6 0 0 1 25 8c0 6-4 7.6-8 8 .7.6 1 1.5 1 3v3"/></g>
+      <g transform="translate(44 0)"><rect x="2" y="8" width="20" height="18" rx="2"/><path d="M6 8V4h16v22M8 14v8M8 10v.1M13 22v-8M18 22v-5c0-4-5-4-5 0"/></g>
+      <g transform="translate(88 0)"><path d="M4 20l16-16M8 4h12v12"/><path d="M20 4h-8"/></g>
+      <animate attributeName="opacity" values=".7;1;.7" dur="3.2s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

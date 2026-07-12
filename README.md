@@ -3,6 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=>>>+Initializing+Kali+Profile...;>>>+Java+%7C+DSA+%7C+Web+Developer;>>>+Cybersecurity+Enthusiast;>>>+Keep+Building+%7C+Keep+Learning" />
 </p>
 
+
+
+<!--===============MERA SVG FILES -->
+
+![DSADoctor Logo](./assets/dark.svg)
+
+
+
+
+
+
 <!-- ================Main=========== -->
 
 <!-- <div align="center"> -->

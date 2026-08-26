@@ -44,7 +44,7 @@
 <!-- ================Portfolio================== -->
 <div align="center">
   <h3>✨ Quick Links</h3>
-  <a href="https://kali-prem.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="[https://kali-prem.github.io/](https://kali-prem.github.io/Portfolio/)" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
 <a href="https://kali-prem.github.io/leetcode-company-wise-interview-questions/" target="_blank"><img src="https://img.shields.io/badge/DSA%20Doctor-View%20Repo-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="DSA Doctor" /></a>
 

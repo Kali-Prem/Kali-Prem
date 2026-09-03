@@ -53,7 +53,7 @@
 
 </div>
 
-<!-- ===========GitHub Stats========== -->
+<!-- ===========GitHub Insights========== -->
 
 ## 
 
@@ -71,7 +71,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=tokyonight"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=tokyonight"/>
       </td>
       <td width="30"></td>
       <td>
@@ -261,13 +261,13 @@ I am a passionate software engineer with a deep fascination for solving complex 
   </a>
 </p>
 
-```bash
+<!-- ```bash
 ┌─[root@Kali-Prem]─[~]
 └──╼ connect --prem_kumar
 
 [STATUS] available_for_collaboration ⚡
 [MODE] secure-channel active
-```
+``` -->
 
 </div>
 

@@ -41,16 +41,14 @@
 
 </div>
 
-<!-- ================Portfolio================== -->
+<!-- ================Portfolio & Quick Links================== -->
 <div align="center">
   <h3>✨ Quick Links</h3>
-  <a href="https://kali-prem.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-
-<a href="https://kali-prem.github.io/leetcode-company-wise-interview-questions/" target="_blank"><img src="https://img.shields.io/badge/DSA%20Doctor-View%20Repo-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="DSA Doctor" /></a>
-
-<a href="https://www.linkedin.com/in/kali-prem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/Prem_Kumar01" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-
+  
+  <a href="https://kali-prem.github.io/Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Kali-Prem/leetcode-company-wise-interview-questions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DSA%20Doctor-GitHub%20Repo-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="DSA Doctor GitHub Repository" /></a>
+  <a href="https://www.linkedin.com/in/kali-prem" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Prem_Kumar01" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </div>
 
 <!-- ===========GitHub Insights========== -->
@@ -207,6 +205,64 @@ I am a passionate software engineer with a deep fascination for solving complex 
 
 ---
 
+<!-- ===========Featured Project: DSA Doctor========== -->
+
+##
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-orange.svg" alt="Featured Project - DSA Doctor dsadoctor.com" width="900" />
+</p>
+
+<div align="center" style="margin: 18px 0 24px 0;">
+
+# 🩺 [DSA Doctor](https://dsadoctor.com) — [dsadoctor.com](https://dsadoctor.com)
+### 🚀 The Ultimate Platform for Company-Wise DSA Coding Interview Questions
+
+<p align="center">
+  <a href="https://dsadoctor.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Official_Website-dsadoctor.com-FF7A18?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DSA Doctor Official Website dsadoctor.com" />
+  </a>
+  <a href="https://dsadoctor.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Status-Online_%26_Active-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="DSA Doctor Platform Status" />
+  </a>
+  <a href="https://github.com/Kali-Prem/leetcode-company-wise-interview-questions" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub_Repo-DSA_Doctor-1554E8?style=for-the-badge&logo=github&logoColor=white" alt="DSA Doctor GitHub Repository" />
+  </a>
+  <a href="https://github.com/Kali-Prem" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Created_By-Prem_Kumar-7C4DFF?style=for-the-badge&logo=github&logoColor=white" alt="Prem Kumar - Kali-Prem" />
+  </a>
+</p>
+
+<p align="center" style="margin-top: 10px;">
+  <a href="https://dsadoctor.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/👉_Launch_DSA_Doctor-dsadoctor.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Explore dsadoctor.com" />
+  </a>
+</p>
+
+</div>
+
+<div style="margin: 14px 0 20px 0;">
+
+**[DSA Doctor](https://dsadoctor.com)** (live at **[dsadoctor.com](https://dsadoctor.com)**) is a comprehensive coding interview preparation platform engineered to help software developers, engineering students, and tech aspirants conquer **Data Structures & Algorithms (DSA)** through curated, **company-wise interview questions**.
+
+Whether you search for **DSA Doctor**, **dsa doctor**, or **dsadoctor**, this platform serves as an all-in-one diagnostic and practice guide to ace technical interviews, coding assessments, and software engineering placements at top tech companies.
+
+#### 🌟 Key Features of [DSA Doctor (dsadoctor.com)](https://dsadoctor.com):
+
+- 🏢 **Company-Wise Question Banks**: Practice real-world coding problems asked by top-tier tech companies including **Google, Microsoft, Amazon, Meta, Apple, Netflix, Uber, Atlassian, Adobe**, and many more.
+- 🎯 **Pattern-Based DSA Roadmaps**: Structured learning tracks covering core algorithmic patterns — Arrays, Two Pointers, Sliding Window, Dynamic Programming, Graphs, Trees, and Recursion.
+- ⚡ **Interactive Real-Time Filters**: Effortlessly filter questions by company, difficulty level (**Easy, Medium, Hard**), core data structure topics, and appearance frequency.
+- 🔗 **Direct LeetCode Integration**: Immediate access to verified LeetCode problem links with optimal time and space complexity guidelines.
+- 🌙 **Modern Glassmorphic Dark UI**: High-performance, distraction-free interface with instant search and dark/light mode for daily coding sessions.
+
+> 🌐 **Live Website**: [https://dsadoctor.com](https://dsadoctor.com)  
+> 📂 **GitHub Repository**: [Kali-Prem/leetcode-company-wise-interview-questions](https://github.com/Kali-Prem/leetcode-company-wise-interview-questions)  
+> 🏷️ **Search Tags**: `DSA Doctor` • `dsa doctor` • `dsadoctor.com` • `dsadoctor` • `company-wise DSA interview questions` • `LeetCode company-wise problems` • `coding interview preparation` • `DSA roadmap` • `Prem Kumar DSA Doctor`
+
+</div>
+
+---
+
 <!-- ## 📂 Key Repositories & Learning Journeys -->
 
 ##
@@ -221,7 +277,7 @@ I am a passionate software engineer with a deep fascination for solving complex 
 
 - **[500-DSA-Pattern-Problems](https://github.com/Kali-Prem/500-DSA-Pattern-Problems)**: A curated and highly organized compilation of 500+ DSA pattern problems, designed to master problem-solving paradigms for top-tier coding interviews.
 - **[Java-DSA-Learning](https://github.com/Kali-Prem/Java-DSA-Learning)**: Core Java implementations of fundamental data structures, custom algorithm optimizations, and step-by-step guides.
-- **[leetcode-company-wise-interview-questions](https://github.com/Kali-Prem/leetcode-company-wise-interview-questions)**: Targeted study lists focusing on company-specific patterns and frequently asked interview questions.
+- **[leetcode-company-wise-interview-questions](https://github.com/Kali-Prem/leetcode-company-wise-interview-questions)** (Official Repository for **[DSA Doctor](https://dsadoctor.com)**): Targeted study lists and company-wise curated question sheets powering the live platform at **[dsadoctor.com](https://dsadoctor.com)**.
 
 ### 🔐 Cybersecurity & Pentesting
 

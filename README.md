@@ -17,7 +17,7 @@
 <div align="center" style="margin: 8px 0 16px 0;">
   <a href="https://github.com/Kali-Prem">
     <img 
-      src="https://komarev.com/ghpvc/?username=Kali-Prem&label=%F0%9F%91%A5+VISITORS&color=2563eb&style=for-the-badge" 
+      src="https://komarev.com/ghpvc/?username=Kali-Prem&label=👥%20VISITORS&color=2563eb&style=for-the-badge" 
       alt="Total Profile Visitors"
     />
   </a>

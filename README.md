@@ -178,11 +178,11 @@
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-purple.svg" alt="Tech Stack neon panel" width="900" />
 </p>
 
-<div style="margin: 10px 0 16px 0;">
+<div align="center" style="margin: 14px 0 24px 0;">
 
 ### 💻 Languages & Backend Core
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -193,7 +193,7 @@
 
 ### 🌐 Web & Frameworks
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -204,7 +204,7 @@
 
 ### 🔐 Cybersecurity & Pentesting
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=ff4a00" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -214,7 +214,7 @@
 
 ### 🧰 Tools & Databases
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />

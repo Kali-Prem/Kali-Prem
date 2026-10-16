@@ -1,123 +1,98 @@
 <!-- ===========Profile Introduction========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=>>>+Initializing+Kali+Profile...;>>>+Java+%7C+DSA+%7C+Web+Developer;>>>+Cybersecurity+Enthusiast;>>>+Keep+Building+%7C+Keep+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?color=00FF00&size=26&center=true&vCenter=true&width=900&lines=%3E%3E%3E+Initializing+Kali+Profile...;%3E%3E%3E+Author+of+DSA+Logic+Building+Playbook+%E2%9A%A1;%3E%3E%3E+Creator+of+DSA+Doctor+%7C+Java+%7C+Backend;%3E%3E%3E+Keep+Building+%7C+Keep+Learning" alt="Typing Introduction" />
 </p>
 
+<!-- ================Terminal Profile Hero Card================ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/dark.svg" alt="Prem Kumar Terminal Profile Hero" width="100%" />
+</p>
 
-
-<!--===============MERA SVG FILES -->
-
-![DSADoctor Logo](./assets/dark.svg)
-
-
-
-
-
-
-<!-- ================Main=========== -->
-
-<!-- <div align="center"> -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=240&section=header&text=Prem%20Kumar&fontSize=54&fontColor=00f5ff&fontAlignY=42&desc=⚡%20DSA%20%7C%20Java%20%7C%20Cybersecurity%20⚡&descSize=16&descAlignY=68&descColor=7ef9ff&stroke=00f5ff&strokeWidth=2&animation=twinkling" width="100%" alt="Prem Kumar profile banner"/>
-
-<!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Solutions+%7C+Clean+Code+%7C+Optimal+Complexity;Arrays+%E2%80%A2+DP+%E2%80%A2+Math+%E2%80%A2+Bit+Manipulation;5%C3%97+Perfect+Runtime+%F0%9F%8F%86+%7C+Daily+Commits+%E2%9C%85;From+Brute+Force+to+Blazing+Fast+%E2%9A%A1" alt="Typing SVG" />
-</a> -->
+<!-- ================Main Capsule Banner================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=220&section=header&text=Prem%20Kumar&fontSize=52&fontColor=00f5ff&fontAlignY=42&desc=⚡%20DSA%20%7C%20Java%20%7C%20Cybersecurity%20⚡&descSize=16&descAlignY=68&descColor=7ef9ff&stroke=00f5ff&strokeWidth=2&animation=twinkling" width="100%" alt="Prem Kumar profile banner"/>
+</p>
 
 <!-- ==================Visitors Count=============== -->
-
-<!-- <div align="center">
-
-<img src="https://img.shields.io/badge/👥%20VISITORS-2,713-1e90ff?style=for-the-badge&labelColor=0f172a&color=2563eb" height="55"/>
-
-</div> -->
-
-<div align="center">
-
-<img 
-  src="https://komarev.com/ghpvc/?username=Kali-Prem&label=👥%20VISITORS&color=2563eb&labelColor=0f172a&style=for-the-badge" 
-  height="25" 
-/>
-
+<div align="center" style="margin: 8px 0 16px 0;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Kali-Prem&label=👥%20VISITORS&color=2563eb&labelColor=0f172a&style=for-the-badge" 
+    alt="Visitors Count"
+  />
 </div>
 
 <!-- ================Portfolio & Quick Links================== -->
-<div align="center">
-  <h3>✨ Quick Links</h3>
+<div align="center" style="margin-bottom: 24px;">
+  <h3>✨ Quick Links & Portals</h3>
   
-  <a href="https://kali-prem.github.io/Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://kali-prem.github.io/Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Kali-Prem/dsa-logic-building-playbook" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Logic%20Playbook-00D4FF?style=for-the-badge&logo=gitbook&logoColor=black" alt="DSA Logic Building Playbook" /></a>
-  <a href="https://github.com/Kali-Prem/leetcode-company-wise-interview-questions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DSA%20Doctor-GitHub%20Repo-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="DSA Doctor GitHub Repository" /></a>
+  <a href="https://dsadoctor.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DSA%20Doctor-FF7A18?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DSA Doctor Official Platform" /></a>
+  <a href="https://github.com/Kali-Prem/leetcode-company-wise-interview-questions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DSA%20Doctor-Repo-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="DSA Doctor GitHub Repository" /></a>
   <a href="https://www.linkedin.com/in/kali-prem" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Prem_Kumar01" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://tryhackme.com/p/KaliPrem" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TryHackMe-Labs-C12C2C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </div>
 
 <!-- ===========GitHub Insights========== -->
-
-## 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-cyan.svg" alt="GitHub Insights neon panel" width="900" />
 </p>
 
-<div align="center" style="margin: 12px 0 18px 0;">
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kali-Prem&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p> -->
-
-<p align="center">
+<div align="center" style="margin: 14px 0 24px 0;">
   <table>
     <tr>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=tokyonight"/>
+      <td align="center">
+        <a href="https://github.com/Kali-Prem" target="_blank" rel="noopener noreferrer">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=tokyonight" alt="Top Languages" />
+        </a>
       </td>
-      <td width="30"></td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Prem&theme=tokyonight"/>
+      <td width="20"></td>
+      <td align="center">
+        <a href="https://github.com/Kali-Prem" target="_blank" rel="noopener noreferrer">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Prem&theme=tokyonight" alt="GitHub Streak" />
+        </a>
       </td>
     </tr>
   </table>
-</p>
-
----
-
 </div>
 
-<!-- ===========LeetCode, HackerRank========== -->
-
+<!-- ===========LeetCode, Coding Stats========== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-pink.svg" alt="Coding Stats neon panel" width="900" />
 </p>
 
-<div align="center" style="margin: 18px 0;">
+<div align="center" style="margin: 18px 0 24px 0;">
 
-<!-- <h2>📊 Coding Stats</h2> -->
+  <!-- LeetCode Metrics & Total Solved Badges -->
+  <p align="center">
+    <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FKali-Prem&query=totalSolved&label=LeetCode%20Solved&style=for-the-badge&logo=leetcode&labelColor=0d1117&color=FFA116" alt="LeetCode Total Solved" />
+    </a>
+    <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FKali-Prem&query=easySolved&label=Easy&style=for-the-badge&labelColor=0d1117&color=00B8A3" alt="Easy Solved" />
+    </a>
+    <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FKali-Prem&query=mediumSolved&label=Medium&style=for-the-badge&labelColor=0d1117&color=FFC01E" alt="Medium Solved" />
+    </a>
+    <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FKali-Prem&query=hardSolved&label=Hard&style=for-the-badge&labelColor=0d1117&color=FF375F" alt="Hard Solved" />
+    </a>
+    <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FKali-Prem&query=ranking&label=Rank&prefix=%23&style=for-the-badge&labelColor=0d1117&color=8A2BE2" alt="LeetCode Rank" />
+    </a>
+  </p>
 
-<div style="
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-">
+  <!-- LeetCode Interactive Stats Card -->
+  <p align="center">
+    <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
+      <img src="https://leetcard.jacoblin.cool/Kali-Prem?theme=dark&font=Karma&ext=heatmap" alt="Kali-Prem LeetCode Stats" />
+    </a>
+  </p>
 
-<!-- LeetCode -->
-<div style="
-  background-color: #0d1117;
-  border: 1px solid #30363d;
-  border-radius: 10px;
-  padding: 15px;
-  width: 400px;
-">
-  <img src="https://leetcard.jacoblin.cool/Prem_Kumar01?theme=dark&font=Karma&ext=heatmap" width="50%"/>
 </div>
 
-</div>
-
-</div>
-
-<!-- ===========System Status========== -->
-
+<!-- ===========Current Focus & About Me========== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-green.svg" alt="Current Focus neon panel" width="900" />
 </p>
@@ -224,16 +199,13 @@
 ---
 
 <!-- ===========Featured Project: DSA Doctor========== -->
-
-##
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-orange.svg" alt="Featured Project - DSA Doctor dsadoctor.com" width="900" />
 </p>
 
 <div align="center" style="margin: 18px 0 24px 0;">
 
-# 🩺 [DSA Doctor](https://dsadoctor.com) — [dsadoctor.com](https://dsadoctor.com)
+## 🩺 [DSA Doctor](https://dsadoctor.com) — [dsadoctor.com](https://dsadoctor.com)
 ### 🚀 The Ultimate Platform for Company-Wise DSA Coding Interview Questions
 
 <p align="center">
@@ -253,13 +225,13 @@
 
 <p align="center" style="margin-top: 10px;">
   <a href="https://dsadoctor.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/👉_Launch_DSA_Doctor-dsadoctor.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Explore dsadoctor.com" />
+    <img src="https://img.shields.io/badge/👉_Launch_DSA_Doctor-dsadoctor.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" height="38" alt="Explore dsadoctor.com" />
   </a>
 </p>
 
 </div>
 
-<div style="margin: 14px 0 20px 0;">
+<div style="margin: 14px 0 24px 0;">
 
 **[DSA Doctor](https://dsadoctor.com)** (live at **[dsadoctor.com](https://dsadoctor.com)**) is a comprehensive coding interview preparation platform engineered to help software developers, engineering students, and tech aspirants conquer **Data Structures & Algorithms (DSA)** through curated, **company-wise interview questions**.
 
@@ -361,12 +333,11 @@ The **[DSA Logic Building Playbook](https://github.com/Kali-Prem/dsa-logic-build
 </div>
 
 <!-- ===========Key Repositories========== -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-cyan.svg" alt="Repositories neon panel" width="900" />
+  <img src="./assets/neon-blue.svg" alt="Repositories neon panel" width="900" />
 </p>
 
-<div style="margin: 10px 0 16px 0;">
+<div style="margin: 14px 0 24px 0;">
 
 ### 🧠 Data Structures & Algorithms (DSA)
 
@@ -386,48 +357,47 @@ The **[DSA Logic Building Playbook](https://github.com/Kali-Prem/dsa-logic-build
 
 </div>
 
----
-
 <!-- ===========Connect With Me========== -->
-##
-<!-- ## 🌐 Connect With Me -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-red.svg" alt="Connect neon panel" width="900" />
 </p>
 
-<div style="margin: 10px 0 16px 0;">
+<div align="center" style="margin: 14px 0 20px 0;">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kali-prem">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://leetcode.com/u/Prem_Kumar01">
-    <img src="https://img.shields.io/badge/LeetCode-00FF00?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://tryhackme.com/p/KaliPrem">
-    <img src="https://img.shields.io/badge/TryHackMe-00FF00?style=for-the-badge&logo=tryhackme&logoColor=black"/>
-  </a>
-  <a href="mailto:kali-prem@quicksend.ch">
-    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kali-prem" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://tryhackme.com/p/KaliPrem" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/TryHackMe-Rankings-C12C2C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+    </a>
+    <a href="mailto:coder.premkumar@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://kali-prem.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+
+</div>
+
+```bash
+┌─[root@Kali-Prem]─[~]
+└──╼ whoami && connect --kali-prem
+
+[USER]     Prem Kumar (Kali-Prem) 🚀
+[ROLE]     Java Developer | DSA Enthusiast | Security Explorer
+[STATUS]   Open for collaborations & software engineering opportunities ⚡
+[CHANNELS] coder.premkumar@gmail.com | linkedin.com/in/kali-prem 🔐
+```
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="520" alt="Cyberpunk hacker coding terminal" />
 </p>
 
-<!-- ```bash
-┌─[root@Kali-Prem]─[~]
-└──╼ connect --prem_kumar
-
-[STATUS] available_for_collaboration ⚡
-[MODE] secure-channel active
-``` -->
-
-</div>
-
-<div align="center" style="margin-top: 24px; padding: 14px; border: 2px solid #00f5ff; border-radius: 18px; box-shadow: 0 0 20px #00f5ff, 0 0 35px #008cff; background: linear-gradient(135deg, rgba(0,245,255,0.12), rgba(0,140,255,0.08)); position: relative; overflow: hidden;">
-  <div style="position: absolute; inset: 0; background-image: repeating-linear-gradient(180deg, rgba(0,255,255,0.06) 0px, rgba(0,255,255,0.06) 1px, transparent 1px, transparent 4px); pointer-events: none;"></div>
-  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="520" alt="Cyberpunk hacker coding" />
-</div>
-
-<p align="center" style="margin-top: 12px; color: #7ef9ff; font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold; letter-spacing: 1px;">
-  <span style="color: #00f5ff;">root@Kali-Prem:~$</span> <span style="animation: blink 1s step-end infinite;">Kali-Prem</span>
+<p align="center" style="margin-top: 12px; font-family: monospace; font-size: 15px; font-weight: bold;">
+  <span style="color: #00f5ff;">root@Kali-Prem:~$</span> <span style="color: #7ef9ff;">Keep Building • Keep Breaking • Keep Learning</span>
 </p>

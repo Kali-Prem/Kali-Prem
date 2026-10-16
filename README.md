@@ -1,6 +1,6 @@
 <!-- ===========Profile Introduction========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00FF00&size=26&center=true&vCenter=true&width=900&lines=%3E%3E%3E+Initializing+Kali+Profile...;%3E%3E%3E+Author+of+DSA+Logic+Building+Playbook+%E2%9A%A1;%3E%3E%3E+Creator+of+DSA+Doctor+%7C+Java+%7C+Backend;%3E%3E%3E+Keep+Building+%7C+Keep+Learning" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?color=00FF00&size=24&center=true&vCenter=true&width=900&lines=%3E%3E%3E%20Initializing%20Kali%20Profile...;%3E%3E%3E%20Author%20of%20DSA%20Logic%20Building%20Playbook%20%7C%20Logic%20Guide%20%E2%9A%A1;%3E%3E%3E%20Creator%20of%20DSA%20Doctor%20%7C%20dsadoctor.com%20%7C%20Java%20Backend%20%F0%9F%9A%80;%3E%3E%3E%20Test%20Case%20Se%20Pattern%20Tak%20%E2%80%A2%20Brute%20Force%20Se%20Optimal%20Tak%20%F0%9F%A7%A0;%3E%3E%3E%20Keep%20Building%20%E2%80%A2%20Keep%20Breaking%20%E2%80%A2%20Keep%20Learning%20%F0%9F%94%90" alt="Typing Introduction" />
 </p>
 
 <!-- ================Terminal Profile Hero Card================ -->

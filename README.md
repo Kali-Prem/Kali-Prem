@@ -334,7 +334,7 @@ The **[DSA Logic Building Playbook](https://github.com/Kali-Prem/dsa-logic-build
 
 <!-- ===========Key Repositories========== -->
 <p align="center">
-  <img src="./assets/neon-blue.svg" alt="Repositories neon panel" width="900" />
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-blue.svg" alt="Key Repositories neon panel" width="900" />
 </p>
 
 <div style="margin: 14px 0 24px 0;">

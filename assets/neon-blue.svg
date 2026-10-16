@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 900 140" role="img" aria-label="Key Repositories">
+  <defs>
+    <linearGradient id="bg-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050e1f"/>
+      <stop offset="100%" stop-color="#0a1d42"/>
+    </linearGradient>
+    <filter id="glow-blue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="884" height="124" rx="22" fill="url(#bg-blue)" stroke="#2563eb" stroke-width="2.4" filter="url(#glow-blue)"/>
+  <rect x="28" y="28" width="844" height="84" rx="16" fill="#050e1f" opacity="0.9"/>
+  <circle cx="58" cy="70" r="7" fill="#2563eb"/>
+  <circle cx="82" cy="70" r="7" fill="#3b82f6"/>
+  <circle cx="106" cy="70" r="7" fill="#60a5fa"/>
+  <text x="50%" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#3b82f6" font-weight="700">Key Repositories</text>
+  <text x="50%" y="96" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#93c5fd">Open-source projects • algorithms • security labs</text>
+</svg>

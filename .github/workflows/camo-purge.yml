@@ -1,0 +1,27 @@
+name: Purge GitHub Camo Cache
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  camo-purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge Camo Badge Caches
+        run: |
+          echo "Fetching Camo URLs for Kali-Prem profile..."
+          urls=$(curl -sLk "https://github.com/Kali-Prem/Kali-Prem" | grep -Eo "(http|https)://camo.githubusercontent.com[a-zA-Z0-9./?=_%:-]*" | sort -u)
+          if [ -z "$urls" ]; then
+            echo "No Camo URLs found on repository page."
+          else
+            while IFS= read -r url; do
+              echo "Purging: $url"
+              curl -s -X PURGE "$url" || true
+            done <<< "$urls"
+            echo "All Camo image caches purged successfully."
+          fi

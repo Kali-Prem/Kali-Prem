@@ -15,10 +15,12 @@
 
 <!-- ==================Visitors Count=============== -->
 <div align="center" style="margin: 8px 0 16px 0;">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Kali-Prem&label=👥%20VISITORS&color=2563eb&labelColor=0f172a&style=for-the-badge" 
-    alt="Visitors Count"
-  />
+  <a href="https://github.com/Kali-Prem">
+    <img 
+      src="https://komarev.com/ghpvc/?username=Kali-Prem&label=%F0%9F%91%A5+VISITORS&color=2563eb&style=for-the-badge" 
+      alt="Total Profile Visitors"
+    />
+  </a>
 </div>
 
 <!-- ================Portfolio & Quick Links================== -->

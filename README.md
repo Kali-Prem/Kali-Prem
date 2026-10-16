@@ -383,21 +383,3 @@ The **[DSA Logic Building Playbook](https://github.com/Kali-Prem/dsa-logic-build
   </p>
 
 </div>
-
-```bash
-┌─[root@Kali-Prem]─[~]
-└──╼ whoami && connect --kali-prem
-
-[USER]     Prem Kumar (Kali-Prem) 🚀
-[ROLE]     Java Developer | DSA Enthusiast | Security Explorer
-[STATUS]   Open for collaborations & software engineering opportunities ⚡
-[CHANNELS] coder.premkumar@gmail.com | linkedin.com/in/kali-prem 🔐
-```
-
-<p align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="520" alt="Cyberpunk hacker coding terminal" />
-</p>
-
-<p align="center" style="margin-top: 12px; font-family: monospace; font-size: 15px; font-weight: bold;">
-  <span style="color: #00f5ff;">root@Kali-Prem:~$</span> <span style="color: #7ef9ff;">Keep Building • Keep Breaking • Keep Learning</span>
-</p>

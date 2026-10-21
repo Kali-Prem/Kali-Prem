@@ -10,7 +10,7 @@
 
 <!-- ================Main Capsule Banner================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=220&section=header&text=Prem%20Kumar&fontSize=52&fontColor=00f5ff&fontAlignY=42&desc=⚡%20DSA%20%7C%20Java%20%7C%20Cybersecurity%20⚡&descSize=16&descAlignY=68&descColor=7ef9ff&stroke=00f5ff&strokeWidth=2&animation=twinkling" width="100%" alt="Prem Kumar profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=220&section=header&text=Prem%20Kumar&fontSize=52&fontColor=00f5ff&fontAlignY=42&desc=⚡%20DSA%20%7C%20Java%20%7C%20Cybersecurity%20%7C%20AIML%20⚡&descSize=16&descAlignY=68&descColor=7ef9ff&stroke=00f5ff&strokeWidth=2&animation=twinkling" width="100%" alt="Prem Kumar profile banner"/>
 </p>
 
 <!-- ==================Visitors Count=============== -->

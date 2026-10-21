@@ -4,9 +4,9 @@
 </p>
 
 <!-- ================Terminal Profile Hero Card================ -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/dark.svg" alt="Prem Kumar Terminal Profile Hero" width="100%" />
-</p>
+</p> -->
 
 <!-- ================Main Capsule Banner================ -->
 <p align="center">

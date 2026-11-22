@@ -1,23 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 900 140" role="img" aria-label="Featured Project - DSA Doctor">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 900 78" role="img" aria-label="Featured Projects">
   <defs>
     <linearGradient id="bg-orange" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#190e05"/>
       <stop offset="100%" stop-color="#341b09"/>
     </linearGradient>
     <filter id="glow-orange" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <rect x="8" y="8" width="884" height="124" rx="22" fill="url(#bg-orange)" stroke="#ff7a18" stroke-width="2.4" filter="url(#glow-orange)"/>
-  <rect x="28" y="28" width="844" height="84" rx="16" fill="#190e05" opacity="0.9"/>
-  <circle cx="58" cy="70" r="7" fill="#ff7a18"/>
-  <circle cx="82" cy="70" r="7" fill="#ffa62b"/>
-  <circle cx="106" cy="70" r="7" fill="#ffc766"/>
-  <text x="50%" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#ff7a18" font-weight="700">Featured Project • DSA Doctor</text>
-  <text x="50%" y="96" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#ffd199">dsadoctor.com • Company-Wise Interview Questions • Roadmaps</text>
+  <rect x="8" y="7" width="884" height="64" rx="16" fill="url(#bg-orange)" stroke="#ff7a18" stroke-width="2.2" filter="url(#glow-orange)"/>
+  <rect x="20" y="15" width="860" height="48" rx="12" fill="#190e05" opacity="0.9"/>
+  <circle cx="48" cy="39" r="5.5" fill="#ff7a18"/>
+  <circle cx="68" cy="39" r="5.5" fill="#ffa62b"/>
+  <circle cx="88" cy="39" r="5.5" fill="#ffc766"/>
+  <text x="50%" y="36" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="20" fill="#ff7a18" font-weight="700">Featured Projects</text>
+  <text x="50%" y="53" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" fill="#ffd199">DSA Doctor • Logic Building Playbook • Flagship Platforms</text>
 </svg>
-

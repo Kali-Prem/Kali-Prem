@@ -44,18 +44,18 @@
 ### 🩺 [DSA Doctor](https://dsadoctor.com) — [dsadoctor.com](https://dsadoctor.com)
 A platform for company-wise DSA coding interview questions, curated pattern roadmaps, and LeetCode problem integration.
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://dsadoctor.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Official_Website-dsadoctor.com-FF7A18?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DSA Doctor Official Website" /></a>
   <a href="https://github.com/Kali-Prem/leetcode-company-wise-interview-questions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub_Repo-DSA_Doctor-1554E8?style=for-the-badge&logo=github&logoColor=white" alt="DSA Doctor GitHub Repository" /></a>
-</p>
+</p> -->
 
 ### 📘 [DSA Logic Building Playbook](https://github.com/Kali-Prem/dsa-logic-building-playbook)
 A systematic mental framework to build problem-solving intuition: *Test Case Se Pattern Tak, Brute Force Se Optimal Tak*.
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/Kali-Prem/dsa-logic-building-playbook" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Read-Playbook_Guide-00D4FF?style=for-the-badge&logo=gitbook&logoColor=black" alt="Read DSA Logic Building Playbook" /></a>
   <a href="https://youtu.be/G3lIEr2OTxk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Masterclass-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Masterclass on YouTube" /></a>
-</p>
+</p> -->
 
 <br/>
 
@@ -83,7 +83,7 @@ A systematic mental framework to build problem-solving intuition: *Test Case Se 
 <br/>
 
 <!-- ===========GitHub Insights========== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-cyan.svg" alt="GitHub Insights neon panel" width="900" />
 </p>
 
@@ -103,17 +103,17 @@ A systematic mental framework to build problem-solving intuition: *Test Case Se 
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- ===========LeetCode, Coding Stats========== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Kali-Prem/Kali-Prem/main/assets/neon-pink.svg" alt="Coding Stats neon panel" width="900" />
 </p>
 
 <div align="center" style="margin: 18px 0 24px 0;">
 
   <!-- LeetCode Metrics & Total Solved Badges -->
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FKali-Prem&query=totalSolved&label=LeetCode%20Solved&style=for-the-badge&logo=leetcode&labelColor=0d1117&color=FFA116" alt="LeetCode Total Solved" />
     </a>
@@ -132,13 +132,13 @@ A systematic mental framework to build problem-solving intuition: *Test Case Se 
   </p>
 
   <!-- LeetCode Interactive Stats Card -->
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://leetcode.com/u/Kali-Prem" target="_blank" rel="noopener noreferrer">
       <img src="https://leetcard.jacoblin.cool/Kali-Prem?theme=dark&font=Karma&ext=heatmap" alt="Kali-Prem LeetCode Stats" />
     </a>
-  </p>
+  </p> 
 
-</div>
+</div> -->
 
 <!-- ===========Current Focus & About Me========== -->
 <p align="center">

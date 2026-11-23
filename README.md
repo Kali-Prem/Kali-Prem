@@ -77,6 +77,7 @@ A professional-grade **webcam & location phishing simulation tool** built for au
 ### 🔐 Cybersecurity & Pentesting
 
 - **[CamSniper](https://github.com/Kali-Prem/CamSniper)**: Professional-grade **red team phishing simulation tool** — captures webcam snapshots (front & back camera), exact GPS coordinates, and full IP geolocation via convincing lure pages. Built for authorized penetration testing and social engineering research.
+- **[Tor-ip-changer](https://github.com/Kali-Prem/Tor-ip-changer)**: An all-in-one **Bash tool for Kali Linux** that automates Tor installation, configuration, and IP rotation using Tor-approved methods. Features an interactive CLI menu to change public IP, control Tor circuits, and enhance network anonymity during red team operations.
 - **[Hacking-Learning](https://github.com/Kali-Prem/Hacking-Learning)**: Comprehensive reference sheets, ethical hacking labs, vulnerability assessment guides, and custom network security scripts.
 
 ### 🌐 Web & Full-Stack

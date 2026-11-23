@@ -42,7 +42,7 @@
 </p>
 
 ### 🩺 [DSA Doctor](https://dsadoctor.com) — [dsadoctor.com](https://dsadoctor.com)
-A platform for company-wise DSA coding interview questions, curated pattern roadmaps, and LeetCode problem integration.
+A platform for company-wise DSA coding interview questions, curated pattern roadmaps, LeetCode problem integration and the 7-step logic building framework for top tech product roles.
 
 <!-- <p align="left">
   <a href="https://dsadoctor.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Official_Website-dsadoctor.com-FF7A18?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DSA Doctor Official Website" /></a>

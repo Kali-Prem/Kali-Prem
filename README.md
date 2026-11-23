@@ -179,6 +179,12 @@ A systematic mental framework to build problem-solving intuition: *Test Case Se 
 - **Network Analysis & Sniffing**: `Wireshark` • `Ettercap` • `Aircrack-ng` • `Tcpdump`
 - **Forensics & Post-Exploitation**: `Volatility` • `John the Ripper` • `Hashcat` • `Netcat` • `Mimikatz`
 
+### 🌐 Networking & Infrastructure
+- **Network Simulation & Design**: `Cisco Packet Tracer` • `TCP/IP` • `DNS` • `DHCP` • `VLANs` • `Subnetting`
+- **Routing & Switching**: `RIP` • `OSPF` • `STP` • `NAT/PAT` • `ACLs` • `Inter-VLAN Routing`
+- **Windows Server Administration**: `Windows Server 2019/2022` • `Active Directory (AD DS)` • `Group Policy (GPO)`
+- **Server Services**: `IIS Web Server` • `DHCP Server` • `DNS Server` • `Remote Desktop (RDP)` • `File & Print Services`
+
 ### 🧰 Databases, DevOps & Tools
 - **Databases**: `PostgreSQL` • `MySQL` • `MongoDB`
 - **DevOps & Environment**: `Docker` • `Linux / Unix CLI` • `Git / GitHub`

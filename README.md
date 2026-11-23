@@ -66,7 +66,7 @@ A systematic mental framework to build problem-solving intuition: *Test Case Se 
 
 ### 🧠 Data Structures & Algorithms (DSA)
 
-- 🌟 **[dsa-logic-building-playbook](https://github.com/Kali-Prem/dsa-logic-building-playbook)** (**⭐ Master Playbook**): The definitive mental framework teaching how to build logic in DSA problems. Learn how to derive patterns directly from test cases, eliminate brute force bottlenecks, decode constraints, and implement optimal solutions in clean Java. Includes 8 worked examples and video walkthrough!
+-  **[dsa-logic-building-playbook](https://github.com/Kali-Prem/dsa-logic-building-playbook)** (**⭐ Master Playbook**): The definitive mental framework teaching how to build logic in DSA problems. Learn how to derive patterns directly from test cases, eliminate brute force bottlenecks, decode constraints, and implement optimal solutions in clean Java. Includes 8 worked examples and video walkthrough!
 - **[500-DSA-Pattern-Problems](https://github.com/Kali-Prem/500-DSA-Pattern-Problems)**: A curated and highly organized compilation of 500+ DSA pattern problems, designed to master problem-solving paradigms for top-tier coding interviews.
 - **[Java-DSA-Learning](https://github.com/Kali-Prem/Java-DSA-Learning)**: Core Java implementations of fundamental data structures, custom algorithm optimizations, and step-by-step guides.
 - **[leetcode-company-wise-interview-questions](https://github.com/Kali-Prem/leetcode-company-wise-interview-questions)** (Official Repository for **[DSA Doctor](https://dsadoctor.com)**): Targeted study lists and company-wise curated question sheets powering the live platform at **[dsadoctor.com](https://dsadoctor.com)**.
@@ -147,11 +147,11 @@ A systematic mental framework to build problem-solving intuition: *Test Case Se 
 
 > 💡 *Bridging AI/ML innovations, high-performance backend systems, algorithmic mastery, and offensive cybersecurity.*
 
-- 🤖 **AI & Machine Learning (AI/ML)**: Building intelligent applications, exploring LLM integrations, model fine-tuning, and modern AI/ML pipelines.
-- 🎯 **Backend Systems**: Architecting high-performance microservices and resilient RESTful APIs using **Java & Spring Boot**.
-- 🧠 **Algorithmic Mastery**: Competitive DSA problem solver turning complex problem constraints into clean, optimal `O(1)` and `O(N)` solutions.
-- 🔐 **Cybersecurity & Pentesting**: Hands-on Linux penetration testing, network reconnaissance, and security automation in Bash & Python.
-- 🚀 **Active Creations**: Scaling **[DSA Doctor](https://dsadoctor.com)** and expanding the **[DSA Logic Building Playbook](https://github.com/Kali-Prem/dsa-logic-building-playbook)**.
+-  **AI & Machine Learning (AI/ML)**: Building intelligent applications, exploring LLM integrations, model fine-tuning, and modern AI/ML pipelines.
+-  **Backend Systems**: Architecting high-performance microservices and resilient RESTful APIs using **Java & Spring Boot**.
+-  **Algorithmic Mastery**: Competitive DSA problem solver turning complex problem constraints into clean, optimal `O(1)` and `O(N)` solutions.
+-  **Cybersecurity & Pentesting**: Hands-on Linux penetration testing, network reconnaissance, and security automation in Bash & Python.
+-  **Active Creations**: Scaling **[DSA Doctor](https://dsadoctor.com)** and expanding the **[DSA Logic Building Playbook](https://github.com/Kali-Prem/dsa-logic-building-playbook)**.
 
 <br/>
 

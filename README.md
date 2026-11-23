@@ -57,6 +57,9 @@ A systematic mental framework to build problem-solving intuition: *Test Case Se 
   <a href="https://youtu.be/G3lIEr2OTxk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Masterclass-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Masterclass on YouTube" /></a>
 </p> -->
 
+### 🎯 [CamSniper](https://github.com/Kali-Prem/CamSniper)
+A professional-grade **webcam & location phishing simulation tool** built for authorized red team engagements and penetration testing. Captures webcam photos (front & back), exact GPS coordinates, IP address with full geolocation — deployed via convincing lure pages for real-world social engineering simulations.
+
 <br/>
 
 <!-- ===========Key Repositories========== -->
@@ -73,6 +76,7 @@ A systematic mental framework to build problem-solving intuition: *Test Case Se 
 
 ### 🔐 Cybersecurity & Pentesting
 
+- **[CamSniper](https://github.com/Kali-Prem/CamSniper)**: Professional-grade **red team phishing simulation tool** — captures webcam snapshots (front & back camera), exact GPS coordinates, and full IP geolocation via convincing lure pages. Built for authorized penetration testing and social engineering research.
 - **[Hacking-Learning](https://github.com/Kali-Prem/Hacking-Learning)**: Comprehensive reference sheets, ethical hacking labs, vulnerability assessment guides, and custom network security scripts.
 
 ### 🌐 Web & Full-Stack
